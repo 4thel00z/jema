@@ -13,13 +13,6 @@ This demonstrates how you can validate a json document.
 cat sample.json | jema -schema schema.json
 ```
 
-## Todo
-
-- Add reading from stdin
-- Add loading the json schema
-- Return non zero exit code on validation issue
-- Print out on stderr what went wrong
-
 ## License
 
 This project is licensed under the GPL-3 license.
