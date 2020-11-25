@@ -10,3 +10,5 @@ builds:
     # empty string to skip modifying the output.
     # Default is empty string.
     mod_timestamp: '{{ .CommitTimestamp }}'
+    env:
+      - GONOSUMDB: "github.com/4thel00z/lambda"
