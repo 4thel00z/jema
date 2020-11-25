@@ -4,8 +4,8 @@ github.com/4thel00z/gojsonreference v0.1.0 h1:ygZHq1RzQ8nZtkL5uZvu9XY01kcoP0PnDm
 github.com/4thel00z/gojsonreference v0.1.0/go.mod h1:8axyLcBF3eHWNP17g5M0WJny9AaXZojiZBLWs/yucVQ=
 github.com/4thel00z/gojsonschema v1.2.2 h1:s7XNbd4Cf93StC527CNZGSzaed9H5gNAzgDIV9bhpcs=
 github.com/4thel00z/gojsonschema v1.2.2/go.mod h1:RNWpx5aTBS37JDdVcP84F/pr8oYmP1sdAbav5vPBt14=
-github.com/4thel00z/lambda v0.3.0 h1:khywnuet5w/PwsYJXaOjam4YVpVnx7xvQJ4H/nbWVpI=
-github.com/4thel00z/lambda v0.3.0/go.mod h1:SlH4QFaWccQ+ifpTeW0HP5EpxVv+nAkxTxl4vgcI3R0=
+github.com/4thel00z/lambda v0.4.0 h1:Zr0Bepg3MW3xTGG/D6ZCi8mYC9ujDn/PC/O+wyg957w=
+github.com/4thel00z/lambda v0.4.0/go.mod h1:SlH4QFaWccQ+ifpTeW0HP5EpxVv+nAkxTxl4vgcI3R0=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
