@@ -11,4 +11,4 @@ builds:
     # Default is empty string.
     mod_timestamp: '{{ .CommitTimestamp }}'
 env:
-  - GONOSUMDB: "github.com/4thel00z/lambda"
+  - "GONOSUMDB=github.com/4thel00z/lambda"
