@@ -21,11 +21,11 @@ func main() {
 
 	s, err := loader.Compile(load(schemaContent))
 	if err != nil {
-		λ.Die(err)
+		_ = λ.Die(err)
 	}
 	validate, err := s.Validate(load(jsonContent))
 	if err != nil {
-		λ.Die(err)
+		_ = λ.Die(err)
 	}
 	if validate.Valid() {
 		os.Exit(0)
