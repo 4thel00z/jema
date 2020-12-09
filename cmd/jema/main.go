@@ -32,7 +32,7 @@ func main() {
 	}
 	if len(validate.Errors()) > 0 {
 		for _, err := range validate.Errors() {
-			fmt.Println(err.Description())
+			fmt.Println(err.Field(), ":", err.Description())
 		}
 	}
 }
